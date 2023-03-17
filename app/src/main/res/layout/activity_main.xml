@@ -46,6 +46,7 @@
         android:ems="10"
         android:hint="@string/etTexto"
         android:inputType="textPersonName"
+        android:singleLine="false"
         android:textAlignment="viewStart"
         app:layout_constraintBottom_toTopOf="@+id/etButton"
         app:layout_constraintEnd_toEndOf="parent"
